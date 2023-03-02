@@ -3,8 +3,9 @@ I'm from Pittsburgh, Pennsylvannia.<br>
 Currently, I'm a computer science student at The University of South Florida.
 
 
-Find Me on Here:
-(https://justinscandale.github.io/portfolio/)
+Website:<br>
+https://justinscandale.github.io/portfolio/
+<br>
 
 
 <!---
