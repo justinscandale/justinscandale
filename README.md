@@ -4,8 +4,7 @@ Currently, I'm a computer science student at The University of South Florida.
 
 
 Find Me on Here:
-WEBSITE 
-LINKEDIN
+(https://justinscandale.github.io/portfolio/)
 
 
 <!---
