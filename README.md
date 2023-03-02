@@ -1,5 +1,6 @@
 Hello, I'm Justin Scandale.<br>
-I'm a computer science student at The University of South Florida.
+I'm from Pittsburgh, Pennsylvannia.<br>
+Currently, I'm a computer science student at The University of South Florida.
 
 
 Find Me on Here:
