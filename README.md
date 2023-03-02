@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @justinscandale
-- 👀 I’m interested in computer science, basketball, more
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: email: scandale.justin@gmail.com
+Hello, I'm Justin Scandale.<br>
+I'm a computer science student at The University of South Florida.
+
+
+Find Me on Here:
+WEBSITE 
+LINKEDIN
+
 
 <!---
 justinscandale/justinscandale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
